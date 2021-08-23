@@ -2,4 +2,5 @@
 Santiago De Olivera
 Juan Campos
 Rodrigo Camacho
+:smile: Kevin Alvarez
 :smile: Fernando Machado
