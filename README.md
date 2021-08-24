@@ -17,5 +17,4 @@ Juan Campos
 Rodrigo Camacho
 :smile: Kevin Alvarez
 :smile: Fernando Machado
-
-
+:tada: Armando Hernández de la Vegs
